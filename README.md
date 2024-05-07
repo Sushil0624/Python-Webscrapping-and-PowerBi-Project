@@ -1,4 +1,4 @@
-# COVID-19 Data Scraping and Analysis*
+# COVID-19 Data Scraping and Analysis
 
 This project focuses on scraping COVID-19 data from various websites using Python, performing data cleaning, and analyzing the data using Power BI.
 
